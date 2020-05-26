@@ -52,10 +52,6 @@ p {
 }
 
 @media (min-width: 992px) {
-	/* .container {
-        width: 100%;
-        margin: auto;
-	} */
 	.col {
         float: left;
 		width: 33.33%;
